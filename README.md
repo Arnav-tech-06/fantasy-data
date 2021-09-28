@@ -1,2 +1,3 @@
 # fantasy-data
-python teams_scraper.py Sherlock
+python teams_scraper.py 301497
+
